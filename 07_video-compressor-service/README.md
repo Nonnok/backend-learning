@@ -4,9 +4,6 @@
 ### 学習したこと
 - クライアント・サーバモデルの基本構造
 - socket通信の基本（[TCP] bind → listen → accept → recv / send, [UDP] recvfrom / sendto ）
-- socketモジュールを用いたプロセス間通信
-- `AF_INET`によるIPv4通信
-- バイト列（`recv()の返り値`）と文字列の変換（`decode()`）
 - `uuid`を用いた重複しないIDの生成
 - 外部ライブラリの導入と利用
 - カスタムプロトコルの実装
